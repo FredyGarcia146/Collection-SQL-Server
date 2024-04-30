@@ -2,6 +2,7 @@ USE AdventureWorksLT2014
 
 
 -- USE CURSOR
+---------------------------------------------------------------------------------------------------------------------
 -- DECLARATION: / START: OPEN / FINISH: CLOSE
 	-- CREATE CURSOR:
 	DECLARE EXAMPLE_CURSOR CURSOR FOR
@@ -23,7 +24,7 @@ USE AdventureWorksLT2014
 	DEALLOCATE EXAMPLE_CURSOR
 
 
-
+---------------------------------------------------------------------------------------------------------------------
 -- DECLARATION: / START: OPEN / FINISH: CLOSE
 	-- CREATE CURSOR: AND USING UPDATE
 

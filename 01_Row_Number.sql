@@ -1,5 +1,7 @@
 USE AdventureWorksLT2014
 
+SELECT * FROM SalesLT.Product
+
 -- ADD COLUMN ORDER BY
 
 	-- ORDER BY FOR ListPrice Ascending
